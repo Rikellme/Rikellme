@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rikellme Keven</h1>
+<h3 align="center">A web developer focused on learning even more and helping those in need with my knowledge</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rikellme" alt="rikellme" /> </p>
+
+- 🔭 I'm not currently working
+
+- 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mayk.brito.net.br)
+
+- 🌱 I’m currently learning **JavaScript, HTML, CSS, REACT, GIT**
+
+- 📫 How to reach me **rikellmekevin@gmail.com**
 
 <!--
 **Rikellme/Rikellme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

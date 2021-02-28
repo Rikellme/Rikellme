@@ -4,7 +4,7 @@
 
 - 🔭 I'm not currently working
 
-- 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mayk.brito.net.br)
+- 👨‍💻 
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, REACT, GIT**
 

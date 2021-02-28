@@ -4,7 +4,7 @@
 
 - 🔭 I'm not currently working
 
-- 👨‍💻 
+- 👨‍💻 studying to be a **Web Developer**
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, REACT, GIT**
 

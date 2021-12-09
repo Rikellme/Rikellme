@@ -1,6 +1,6 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rikellme Keven</h1>
 <h3 align="center">A web developer focused on learning even more and helping those in need with my knowledge</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rikellme" alt="rikellme" /> </p>
+
 
 - 🔭 Procuro trabalhar com desenvolvimento Web 
 - 👨‍💻 Estudando para ser um **Desenvolvedor Web**

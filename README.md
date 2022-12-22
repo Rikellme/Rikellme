@@ -2,9 +2,9 @@
 <h3 align="center">A web developer focused on learning even more and helping those in need with my knowledge</h3>
 
 
-- 🔭 Procuro trabalhar com desenvolvimento Web 
-- 👨‍💻 Estudando para ser um **Desenvolvedor Web**
-- 🌱 Atualmente estou estudando **JavaScript, HTML, CSS, REACT, LARAVEL**
+- 🔭 Estagiário Full Stack na Evve Comunicações
+- 👨‍💻 Estudando **CIÊNCIA DA COMPUTAÇÃO**
+- 🌱 Atualmente estou estudando **JavaScript, HTML, CSS, REACT, PHP**
 - 📫 Contato: **rikellmekevin@gmail.com**
 - ⚡ Sempre disposto a aprender mais!
 

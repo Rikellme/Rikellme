@@ -2,7 +2,7 @@
 <h3 align="center">A web developer focused on learning even more and helping those in need with my knowledge</h3>
 
 
-- 🔭 Estagiário Full Stack na Evve Comunicações
+- 🔭 Estagiário Desenvolvedor Full Stack na empresa **YER**
 - 👨‍💻 Estudando **CIÊNCIA DA COMPUTAÇÃO**
 - 🌱 Atualmente estou estudando **JavaScript, HTML, CSS, REACT, PHP**
 - 📫 Contato: **rikellmekevin@gmail.com**
